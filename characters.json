@@ -1,0 +1,22 @@
+{
+    "characters": [
+        {
+            "id": "1",
+            "text": "你",
+            "image": "images/1.png",
+            "audio": "audio/1.mp3"
+        },
+        {
+            "id": "2",
+            "text": "好",
+            "image": "images/2.png",
+            "audio": "audio/2.mp3"
+        },
+        {
+            "id": "3",
+            "text": "吗",
+            "image": "images/3.png",
+            "audio": "audio/3.mp3"
+        }
+    ]
+}
